@@ -1,0 +1,11 @@
+{
+    "saveToDir":"download/",
+    "loadFromDir":"download/",
+    "username": "123",
+    "urls": [
+        
+    ],
+    "scrapeMyProfile":{
+        "enabled": false
+    }
+}
