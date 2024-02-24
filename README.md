@@ -15,5 +15,6 @@ python3 main.py
 
 ```
 
+Dive Deeper with the blogs [example.md](./examples/example.md).
 
 {% include ./examples/example.md %}
